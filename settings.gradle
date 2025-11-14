@@ -1,0 +1,4 @@
+include ':frameinterpolation'
+include ':snpe-release'
+rootProject.name = "frameinterpolation"
+
